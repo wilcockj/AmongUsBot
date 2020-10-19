@@ -8,4 +8,5 @@ and the bot will attempt to solve the wiring task
 Press Shift + Q to stop the bot
 
 Only works in fullscreen and with 1920x1080 monitor
+
 https://www.youtube.com/watch?v=1JY8NN4dzh4
